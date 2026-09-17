@@ -1,3 +1,7 @@
+<img width="1696" height="723" alt="image" src="https://github.com/user-attachments/assets/cecc37e6-186e-448d-8dfe-282205868b42" />
+<img width="1240" height="720" alt="image" src="https://github.com/user-attachments/assets/102a5035-3043-47a5-be31-05a0db500969" />
+
+
 # iSmart Workplace — สรุปฟังก์ชันหลักของโปรแกรม
 
 โปรแกรมนี้รวม 2 ระบบไว้ในตัวเดียว: **จัดการไฟล์ Backup/Cleanup/Sync** และ **แชท LAN ในองค์กร**
