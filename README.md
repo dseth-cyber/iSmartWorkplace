@@ -3,6 +3,9 @@
 
 
 # iSmart Workplace — สรุปฟังก์ชันหลักของโปรแกรม
+รอรับ Windows 32 bit และ 64 bit
+iSmartWorkplace-Setup-3.8.4-Win10-x64
+iSmartWorkplace-Setup-3.8.4-Win10-x86
 
 โปรแกรมนี้รวม 2 ระบบไว้ในตัวเดียว: **จัดการไฟล์ Backup/Cleanup/Sync** และ **แชท LAN ในองค์กร**
 
