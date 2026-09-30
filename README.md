@@ -58,7 +58,7 @@ iSmartWorkplace-Setup-3.8.4-Win10-x86
 
 #### ฝั่งเครื่องแม่ (Directory Server)
 1. แตกไฟล์ `iSmartWorkplace-3.6.8-Windows-x64.zip`
-2. ดับเบิลคลิกเปิด `iSmartWorkplace-Server.exe` ทิ้งไว้ (คลิกขวาที่ Tray เพื่อสั่งซ่อนหน้าต่าง Console ได้)
+2. ดับเบิลคลิกเปิด `iSmartWorkplace-Server.exe` ทิ้งไว้ (คลิกขวาที่ Tray เพื่อสั่งซ่อนหน้าต่าง Console ได้) คัดลอก SHA ไปใส่ที่เครื่องลูก
 3. หากต้องการเปิดใช้งานฟังก์ชันแชทหรือสำรองข้อมูลบนเครื่อง Server ด้วย ให้ดับเบิลคลิกเปิด `iSmartWorkplace.exe` หรือติดตั้งผ่าน `iSmartWorkplace-Setup.exe`
 
 #### ฝั่งเครื่องลูก (Client)
