@@ -1,6 +1,10 @@
+
 <img width="1696" height="723" alt="image" src="https://github.com/user-attachments/assets/cecc37e6-186e-448d-8dfe-282205868b42" />
 <img width="1240" height="720" alt="image" src="https://github.com/user-attachments/assets/102a5035-3043-47a5-be31-05a0db500969" />
-
+<img width="1074" height="476" alt="1790740972038" src="https://github.com/user-attachments/assets/0eda09d7-a3f2-40d4-9fd8-6ab5af5bc4a6" />
+<img width="1396" height="721" alt="1789541220520" src="https://github.com/user-attachments/assets/b0a1b6d1-0413-470b-b1ef-86929c32256b" />
+<img width="510" height="363" alt="1789541260568" src="https://github.com/user-attachments/assets/fc72fee7-120b-4de4-aee8-9fd5f03c2d35" />
+<img width="712" height="900" alt="1789541199278" src="https://github.com/user-attachments/assets/f1fd5cd1-fe5e-4033-9354-87fd399b60ae" />
 
 # iSmart Workplace — สรุปฟังก์ชันหลักของโปรแกรม
 รอรับ Windows 32 bit และ 64 bit
