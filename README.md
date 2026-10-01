@@ -7,7 +7,7 @@
 <img width="712" height="900" alt="1789541199278" src="https://github.com/user-attachments/assets/f1fd5cd1-fe5e-4033-9354-87fd399b60ae" />
 
 # iSmart Workplace — สรุปฟังก์ชันหลักของโปรแกรม
-รอรับ Windows 10 ทั้ง 32 bit และ 64 bit และ Windows 7  (32 bit)
+รอรับ Windows 10 และ Windows 7 ทั้ง 32 bit และ 64 bit
 
 โปรแกรมนี้รวม 2 ระบบไว้ในตัวเดียว: **จัดการไฟล์ Backup/Cleanup/Sync** และ **แชท LAN ในองค์กร**
 
